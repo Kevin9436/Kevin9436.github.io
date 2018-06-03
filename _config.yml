@@ -30,8 +30,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kevin's blog
-subtitle: happy to share my life with u :)
+title: 南山孤客Kevin
+subtitle: 请多指教
 description: 做个有趣的灵魂
 author: Kevin Lee
 email: zhenyuli.vip.9436@gmail.com
