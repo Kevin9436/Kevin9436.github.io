@@ -1,7 +1,12 @@
 ---
 layout: default
+category: notes
 ---
-{%- assign _posts = site.posts | sort: 'date' | reverse -%}
+{% for category in site.categories %}
+	{% if category.first == page.category %}
+		{%- assign _posts = category.last | sort: 'date' | reverse -%}
+	{% endif %}
+{% endfor %}
 {%- include header.html scrolly_nav=_posts -%}
 <!-- Main -->
 <div id="main">
