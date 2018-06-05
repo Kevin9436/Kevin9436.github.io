@@ -2,7 +2,7 @@
 layout: default
 ---
 {% for category in site.categories %}
-	{% if category.first == "notes" %}
+	{% if category.first == page.category %}
 		{%- assign _posts = category.last | sort: 'date' | reverse -%}
 	{% endif %}
 {% endfor %}
