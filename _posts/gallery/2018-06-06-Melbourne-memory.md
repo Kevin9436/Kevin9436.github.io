@@ -7,8 +7,10 @@ category: gallery
 ---
 因为之后马上就要去墨尔本大学读master了，把之前交流的时候的照片翻出来回忆回忆。
 
-![墨尔本街拍](https://github.com/Kevin9436/Kevin9436.github.io/blob/master/assets/images/portfolio_3.jpg)
+![墨尔本街拍](https://raw.githubusercontent.com/Kevin9436/Kevin9436.github.io/master/assets/images/portfolio_3.jpg)
 
-<span><img src="assets/images/portfolio_4.jpg" alt="Sydney Opera">悉尼歌剧院</span><br>
+<img src="assets/images/portfolio_4.jpg" alt="Sydney Opera">悉尼歌剧院
+<span><img src="https://raw.githubusercontent.com/Kevin9436/Kevin9436.github.io/master/assets/images/portfolio_3.jpg" alt="test">实验</span>
 
-<img src="assets/images/portfolio_5.jpg" alt="test">
+
+换行实验
