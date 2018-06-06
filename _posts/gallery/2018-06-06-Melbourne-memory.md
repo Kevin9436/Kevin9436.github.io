@@ -9,10 +9,10 @@ category: gallery
 &emsp;    再早一些的照片自己以后有空的时候可能会挑些看得过去的再放到博客里。
 
 <div align="center">
-	<img src="{{ site.pic_baseurl }}/gallery/2018-6-6-Melbourne_1.jpg" width="600" height="400">
+	<img src="{{ site.pic_baseurl }}/gallery/2018-6-6-Melbourne_1.jpg" width="750" height="500">
 	<p>墨尔本街拍-电车</p><br>
 	<br>
-	<img src="https://raw.githubusercontent.com/Kevin9436/Kevin9436.github.io/master/assets/images/gallery/2018-6-6-Melbourne_1.jpg" width="660" height="440">
+	<img src="https://raw.githubusercontent.com/Kevin9436/Kevin9436.github.io/master/assets/images/gallery/2018-6-6-Melbourne_1.jpg" width="720" height="480">
 	<p>墨尔本街拍-电车</p><br>
 	<br>
 	<img src="{{ site.pic_baseurl }}/gallery/2018-6-6-Melbourne_1.jpg" width="690" height="460">
