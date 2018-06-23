@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我和CS的这段“孽缘”
-author: 李振宇
+author: Kevin9436
 date: 2018-06-06 3:40
 category: notes
 ---
