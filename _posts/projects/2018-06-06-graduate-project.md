@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 本科毕业设计
-author: 李振宇
+author: Kevin9436
 date: 2018-06-06 4:55
 category: projects
 ---
