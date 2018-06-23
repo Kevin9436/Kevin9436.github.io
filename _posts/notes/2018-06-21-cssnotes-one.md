@@ -1,8 +1,8 @@
 ---
-title: "CSS学习笔记（一)"
-author:Kevin9436
-date: 2018-06-21 20:10
 layout: post
+title: "CSS学习笔记（一)"
+author: Kevin9436
+date: 2018-06-21 20:10
 category: notes
 ---
 
