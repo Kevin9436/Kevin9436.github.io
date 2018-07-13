@@ -6,8 +6,10 @@ date: 2018-07-09 20:10
 category: notes
 ---
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 上周在网上找数据处理的书籍，看到有人推荐这本《数学之美》吴军著，突然想起自己有这本书，便从书架上翻出来看。说起这本书，还是当年大哥留给我的，翻出这本书的时候和大哥相处的一些往事还历历在目，大哥曾给予了我莫大的帮助和关心，这里也祝愿大哥在USC毕业后顺利拿到好的offer，和菲神也是幸福快乐。  
 这本书总共有31章，立个flag每天看一到两章，争取一个月内看完，半周或者一周整理一次笔记，大概就这样吧。  
+
 ****  
 
 ### 第一章 文字和语言vs数字和信息  
