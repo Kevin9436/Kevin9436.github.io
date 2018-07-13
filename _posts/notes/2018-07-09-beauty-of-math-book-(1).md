@@ -6,14 +6,14 @@ date: 2018-07-09 20:10
 category: notes
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 上周在网上找数据处理的书籍，看到有人推荐这本《数学之美》吴军著，突然想起自己有这本书，便从书架上翻出来看。说起这本书，还是当年大哥留给我的，翻出这本书的时候和大哥相处的一些往事还历历在目，大哥曾给予了我莫大的帮助和关心，这里也祝愿大哥在USC毕业后顺利拿到好的offer，和菲神也是幸福快乐。  
 这本书总共有31章，立个flag每天看一到两章，争取一个月内看完，半周或者一周整理一次笔记，大概就这样吧。  
 
 ****  
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>  
 ### 第一章 文字和语言vs数字和信息  
-其实作者在第一章分析人类文字语言发展的过程中就提出了自然语言处理的宏观模型：  
+其实作者在第一章分析人类文字语言发展的过程中就提出了自然语言处理的宏观模型：
+
 > 信息源->(编码)->信道->(解码)->信息接受者  
 
 这个模型将在之后的章节提到并深入解释。  
@@ -27,6 +27,7 @@ category: notes
 #### 3. 建模过程  
 假设S代表一个句子，由一串特定顺序排列的词w<sub>1</sub>,w<sub>2</sub>,...,w<sub>n</sub>组成，则 $ S=w_1,w_2,...,w_n $ 。  
 $$ P(s)=P(w_1,w_2,{\rm ldot},w_n)=P(w_1)·P(w_2|w_1){\rm cdot}P(w_n|w_1,w_2,{\rm ldot},w_{n-1}) \tag{(3.1)} $$
+
 > N-1阶马尔可夫假设：假设任一个词w<sub>i</sub>出现的概率只同它前面的N-1个词有关。即：  
 > $$ P(w_i|w_1,w_2,{\rm ldot},w_{i-1})=P(w_i|w_{i-N+1},w_{i-N+2},{\rm ldot},w_{i-1}) \tag{(3.2)} $$
 
